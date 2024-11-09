@@ -1,16 +1,17 @@
-## Hi there 👋
+# 👋 Hello, I'm Kandarp Jindal!
 
-<!--
-**Kandarp05/kandarp05** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a tech enthusiast with a passion for **cybersecurity** and **software development**. I enjoy creating full-stack applications, solving **cybersecurity** related problems.
 
-Here are some ideas to get you started:
+## 🔧 Tech Stack
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **Languages**: Python, TypeScript, SQL, Java
+- **Backend**: FastAPI
+- **Frontend**: React, Vite, Next
+- **Tools**: Docker, Flutter
+
+## 📫 Connect
+
+- 📧 **Email**: kandarpjindal1911@gmail.com
+- 💼 **LinkedIn**: [Kandarp Jindal](www.linkedin.com/in/kandarpjindal)
+
+Thanks for visiting! 😊
